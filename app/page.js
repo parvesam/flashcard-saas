@@ -58,7 +58,7 @@ export default function Home() {
         </Typography>
         <Button variant='contained' color="primary" sx={{ mt: 2 }}>Get Started</Button>
       </Box>
-      <Box sx={{ my: 6 }}>
+      <Box sx={{ my: 6, textAlign:'center'}}>
         <Typography variant="h4" gutterBottom>
           Features
         </Typography>
